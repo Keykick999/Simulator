@@ -1,0 +1,10 @@
+<깃허브 리파지토리에서 코드 공유>
+git init
+git remote add origin https://github.com/username/repository.git (origin옆의 url은 바꿔줘야)
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+
+
+<깃허브 follow>
+https://docs.github.com/ko/get-started/exploring-projects-on-github/following-people
